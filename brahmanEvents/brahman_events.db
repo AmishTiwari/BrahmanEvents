@@ -1,0 +1,10 @@
+CREATE DATABASE brahman_events;
+
+USE brahman_events;
+
+CREATE TABLE events (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    event_name VARCHAR(100),
+    event_date DATE,
+    venue VARCHAR(200)
+);
