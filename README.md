@@ -1,0 +1,1 @@
+BrahmanEvents is built to provide a simple and elegant platform for browsing upcoming events, cultural programs, rituals, and gatherings. The design is fully responsive and optimized for clarity and performance. we are using HTML ,CSS, JAVASCRIPT,PHP and Xampp for this project. 
